@@ -67,7 +67,9 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Acknowledgements
 
 > React Native - A framework for building native apps using React.
+
 > Firebase Firestore - A flexible, scalable NoSQL cloud database by Firebase.
+
 > Ionicons - Open-source icon set for web and mobile applications.
 
 ## Contact
