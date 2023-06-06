@@ -38,12 +38,12 @@ The ToDo List Mobile App is a cross-platform mobile application developed using 
 
    For iOS:
 
-         ```bash 
+         ```bash
          npx react-native run-ios
    
    For Android:
 
-         ```bash 
+         ```bash
          npx react-native run-android
       
 ## Usage
