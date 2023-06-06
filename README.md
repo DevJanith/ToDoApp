@@ -29,22 +29,22 @@ The ToDo List Mobile App is a cross-platform mobile application developed using 
    
 3. Configure Firebase Firestore:
 
-Create a Firebase project on the Firebase Console.
-Copy your Firebase project configuration.
-Rename FirebaseConfig.example.js to FirebaseConfig.js in the project root directory.
-Replace the placeholder values in FirebaseConfig.js with your Firebase project configuration.
+   Create a Firebase project on the Firebase Console.
+   Copy your Firebase project configuration.
+   Rename FirebaseConfig.example.js to FirebaseConfig.js in the project root directory.
+   Replace the placeholder values in FirebaseConfig.js with your Firebase project configuration.
 
 4. Run the app:
 
    For iOS:
 
-      ```bash 
-      npx react-native run-ios
+         ```bash 
+         npx react-native run-ios
    
-For Android:
+   For Android:
 
-      ```bash 
-      npx react-native run-android
+         ```bash 
+         npx react-native run-android
       
 ## Usage
 
@@ -66,9 +66,9 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Acknowledgements
 
-React Native - A framework for building native apps using React.
-Firebase Firestore - A flexible, scalable NoSQL cloud database by Firebase.
-Ionicons - Open-source icon set for web and mobile applications.
+> React Native - A framework for building native apps using React.
+> Firebase Firestore - A flexible, scalable NoSQL cloud database by Firebase.
+> Ionicons - Open-source icon set for web and mobile applications.
 
 ## Contact
 
